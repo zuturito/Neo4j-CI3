@@ -13,6 +13,8 @@ If you do it right then in the project folder will appear "vendor".
 
 
 <h2>Getting Started</h2>
+Download CodeIgniter framework from: https://codeigniter.com/en/download
+
 
 Just copy files on the directory name that corresponds of CodeIgniter framework.
 "css" and "img" folders are located on the root folder like assets.
