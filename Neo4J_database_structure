@@ -1,0 +1,4 @@
+CREATE (Ram:empleado{name: "Ramiro", sal: 20000, Ciudad: "Veracruz"}) 
+CREATE (Rahim: empleado {name: "Roberto", sal: 25000, Ciudad: "Xalapa"}) 
+CREATE (Robert: empleado {name: "José", sal: 30000, Ciudad: "Cd. Juárez"}) 
+CREATE (Raju: empleado {name: "María", sal: 35000, Ciudad: "México"})
