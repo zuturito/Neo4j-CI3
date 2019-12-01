@@ -4,7 +4,7 @@ Copyright (c) 2019
 
 <b>Install</b><br>
 Using Composer
-From the command line composer require "everyman/neo4jphp" "dev-master"
+From the command line <code>composer require "everyman/neo4jphp" "dev-master"</code>
 
 Previously add composer to Path variables.
 If you're on Windows computer you can download from: https://getcomposer.org/
