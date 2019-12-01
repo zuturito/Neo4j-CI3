@@ -1,4 +1,4 @@
-<h1>Neo4-Codeigniter</h1>
+<h1>Neo4j-Codeigniter</h1>
 Author: Francisco Sánchez Vásquez zuturito@gmail.com <br>
 Copyright (c) 2019
 
