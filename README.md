@@ -1,5 +1,5 @@
 <h1>Neo4j-Codeigniter</h1>
-Author: Francisco Sánchez Vásquez <zuturito@gmail.com> <br>
+Author: Francisco Sánchez Vásquez <a href="mailto:zuturito@gmail.com">zuturito@gmail.com</a>  <br>
 Copyright (c) 2019
 
 <b>Install</b><br>
